@@ -1,0 +1,15 @@
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\bin\Debug\net8.0\Object Orientation.exe
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\bin\Debug\net8.0\Object Orientation.deps.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\bin\Debug\net8.0\Object Orientation.runtimeconfig.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\bin\Debug\net8.0\Object Orientation.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\bin\Debug\net8.0\Object Orientation.pdb
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.AssemblyInfoInputs.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.AssemblyInfo.cs
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.csproj.CoreCompileInputs.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.sourcelink.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\refint\Object Orientation.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.pdb
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\Object Orientation.genruntimeconfig.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Object Orientation\Object Orientation\obj\Debug\net8.0\ref\Object Orientation.dll
