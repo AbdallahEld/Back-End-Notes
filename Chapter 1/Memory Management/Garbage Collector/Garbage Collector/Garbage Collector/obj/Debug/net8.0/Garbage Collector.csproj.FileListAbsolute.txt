@@ -1,0 +1,15 @@
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\net8.0\Garbage Collector.exe
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\net8.0\Garbage Collector.deps.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\net8.0\Garbage Collector.runtimeconfig.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\net8.0\Garbage Collector.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\bin\Debug\net8.0\Garbage Collector.pdb
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.AssemblyInfoInputs.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.AssemblyInfo.cs
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.csproj.CoreCompileInputs.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.sourcelink.json
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\refint\Garbage Collector.dll
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.pdb
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\Garbage Collector.genruntimeconfig.cache
+D:\Learning\ITI\.NET CORE\C#\C# 12 in a nuttshell\Chapter 1\Memory Management\Garbage Collector\Garbage Collector\Garbage Collector\obj\Debug\net8.0\ref\Garbage Collector.dll
