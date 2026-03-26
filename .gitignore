@@ -1,0 +1,9 @@
+# .NET build folders
+bin/
+obj/
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Logs
+*.log
