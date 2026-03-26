@@ -84,12 +84,12 @@
             //int i2 = (int)f;
             #endregion
             #region Overflow
-            // At runtime, arthimetic operations on itegral types can overflow. By
-            // default, this happens silently-no exception is thrown, for Example
-            // decreasing the minimum possible int value results in the maximum possible int value
-            int a = int.MinValue;
-            a--;
-            Console.WriteLine(a == int.MaxValue); //True
+            //// At runtime, arthimetic operations on itegral types can overflow. By
+            //// default, this happens silently-no exception is thrown, for Example
+            //// decreasing the minimum possible int value results in the maximum possible int value
+            //int a = int.MinValue;
+            //a--;
+            //Console.WriteLine(a == int.MaxValue); //True
             #endregion
         }
     }
