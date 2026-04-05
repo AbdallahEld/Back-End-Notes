@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Indexer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14042C46-7C6F-498D-AD5D-DA3829928590}|Indexer\\Indexer.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\indexer\\indexer\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14042C46-7C6F-498D-AD5D-DA3829928590}|Indexer\\Indexer.csproj|solutionrelative:indexer\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14042C46-7C6F-498D-AD5D-DA3829928590}|Indexer\\Indexer.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\indexer\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14042C46-7C6F-498D-AD5D-DA3829928590}|Indexer\\Indexer.csproj|solutionrelative:indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D34F528-5F09-AD5B-9804-C4EE38FACD1C}|Indexer\\Indexer.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\indexer\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D34F528-5F09-AD5B-9804-C4EE38FACD1C}|Indexer\\Indexer.csproj|solutionrelative:indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Indexer\\Indexer\\Program.cs",
               "RelativeDocumentMoniker": "Indexer\\Program.cs",
@@ -49,19 +45,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Team.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Indexer\\Indexer\\Team.cs",
-              "RelativeDocumentMoniker": "Indexer\\Team.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Indexer\\Indexer\\Team.cs",
-              "RelativeToolTip": "Indexer\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T14:09:59.19Z",
-              "EditorCaption": ""
             }
           ]
         },

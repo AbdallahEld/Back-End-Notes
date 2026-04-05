@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\inheritance\\inheritance\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\inheritance\\inheritance\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\chapter 3\\inheritance\\inheritance\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89064E88-40EF-49CA-8E6D-CEDC4C8257FB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:12:01.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\House.cs",
+              "RelativeDocumentMoniker": "Inheritance\\House.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\House.cs",
+              "RelativeToolTip": "Inheritance\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:38:08.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Stock.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Stock.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Stock.cs",
+              "RelativeToolTip": "Inheritance\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:37:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Asset.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Asset.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Chapter 3\\Inheritance\\Inheritance\\Asset.cs",
+              "RelativeToolTip": "Inheritance\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:36:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1073,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
