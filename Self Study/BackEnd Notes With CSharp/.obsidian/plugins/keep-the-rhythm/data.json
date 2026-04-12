@@ -67,7 +67,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-04-12"
+    ],
     "dailyActivity": [
       {
         "date": "2026-04-10",
@@ -119,7 +121,7 @@
       },
       {
         "date": "2026-04-10",
-        "filePath": "Untitled.md",
+        "filePath": "Boxing and Unboxing.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -226,9 +228,170 @@
             "timeKey": "13:45",
             "w": 0,
             "c": 8
+          },
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": -5
           }
         ],
         "id": 4
+      },
+      {
+        "date": "2026-04-12",
+        "filePath": "Value types vs reference types.md",
+        "wordCountStart": 693,
+        "charCountStart": 5121,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2026-04-12",
+        "filePath": "Welcome.md",
+        "wordCountStart": 38,
+        "charCountStart": 220,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-04-12",
+        "filePath": "Boxing and Unboxing.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 50,
+            "c": 696
+          },
+          {
+            "timeKey": "16:50",
+            "w": 34,
+            "c": 193
+          },
+          {
+            "timeKey": "16:55",
+            "w": 16,
+            "c": 120
+          },
+          {
+            "timeKey": "17:00",
+            "w": 61,
+            "c": 352
+          },
+          {
+            "timeKey": "17:05",
+            "w": 55,
+            "c": 395
+          },
+          {
+            "timeKey": "18:20",
+            "w": 6,
+            "c": 28
+          },
+          {
+            "timeKey": "18:25",
+            "w": 78,
+            "c": 531
+          },
+          {
+            "timeKey": "18:30",
+            "w": 9,
+            "c": 80
+          },
+          {
+            "timeKey": "18:35",
+            "w": 13,
+            "c": 105
+          },
+          {
+            "timeKey": "18:40",
+            "w": 28,
+            "c": 188
+          },
+          {
+            "timeKey": "18:45",
+            "w": 36,
+            "c": 291
+          },
+          {
+            "timeKey": "18:50",
+            "w": 17,
+            "c": 112
+          },
+          {
+            "timeKey": "19:55",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "20:00",
+            "w": 51,
+            "c": 388
+          },
+          {
+            "timeKey": "20:05",
+            "w": 75,
+            "c": 595
+          },
+          {
+            "timeKey": "20:10",
+            "w": 75,
+            "c": 492
+          },
+          {
+            "timeKey": "20:15",
+            "w": 67,
+            "c": 453
+          },
+          {
+            "timeKey": "20:20",
+            "w": 29,
+            "c": 222
+          },
+          {
+            "timeKey": "20:55",
+            "w": 22,
+            "c": 154
+          },
+          {
+            "timeKey": "21:00",
+            "w": 17,
+            "c": 115
+          },
+          {
+            "timeKey": "21:05",
+            "w": 5,
+            "c": 33
+          },
+          {
+            "timeKey": "21:10",
+            "w": 41,
+            "c": 344
+          },
+          {
+            "timeKey": "21:15",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "21:20",
+            "w": 28,
+            "c": 160
+          }
+        ],
+        "id": 7
       }
     ]
   }

@@ -8,11 +8,9 @@ You've probably heard:
 This is not Wrong but its incomplete.
 
 ---
-
 ## What Actually Defines the Difference?
 
 The real distinction has nothing to do with the memory location. its about copy semantics:
-
 
 |                         | Value Type                           | Reference Type             |
 | ----------------------- | ------------------------------------ | -------------------------- |
@@ -29,7 +27,6 @@ Console.WriteLine(a); // 10 - completely unaffected
 💡 Value types are like photocopies. Reference types are like shared Google Docs - multiple people Editing the same document
 
 ---
-
 ## Memory
 The stack and heap are implementation details
 
@@ -61,7 +58,6 @@ void MyMethod()
 
 
 ---
-
 ## Exceptions That Break the Rule
 ### 1.  Value types inside classes -> go to the HEAP
 ```C#
@@ -115,7 +111,6 @@ this works because strings are immutable. Any "modification" create a new object
 **value-like semantics via immutability** - not the same as being a value type.
 
 ---
-
 ## `struct` vs `class` 
 When do you choose one over the other
 ``` C#
