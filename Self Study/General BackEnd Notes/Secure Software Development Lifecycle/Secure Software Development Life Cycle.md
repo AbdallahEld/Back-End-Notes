@@ -1,3 +1,5 @@
 [[Chapter 01 Security Awareness]]
 [[Chapter 02 Building Security Requirements]]
 [[Chapter 03 Ensuring Secure Design]]
+[[Chapter 04 Secure Implementation]]
+[[Chapter 05 Web Application Security Testing]]

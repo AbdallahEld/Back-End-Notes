@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure Software Development Lifecycle/Chapter 04 Secure Implementation.md",
+                "file": "Secure Software Development Lifecycle/Chapter 05 Web Application Security Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 04 Secure Implementation"
+              "title": "Chapter 05 Web Application Security Testing"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "8c0c17af3f432f05",
   "lastOpenFiles": [
-    "Secure Software Development Lifecycle/Chapter 03 Ensuring Secure Design.md",
-    "Secure Software Development Lifecycle/Chapter 04 Secure Implementation.md",
-    "Secure Software Development Lifecycle/Chapter 02 Building Security Requirements.md",
     "Secure Software Development Lifecycle/Chapter 01 Security Awareness.md",
+    "Secure Software Development Lifecycle/Chapter 04 Secure Implementation.md",
+    "Secure Software Development Lifecycle/Chapter 05 Web Application Security Testing.md",
     "Secure Software Development Lifecycle/Secure Software Development Life Cycle.md",
     "Welcome.md",
+    "Secure Software Development Lifecycle/Chapter 03 Ensuring Secure Design.md",
+    "Secure Software Development Lifecycle/Chapter 02 Building Security Requirements.md",
     "Chapter 01 Security Awareness.md",
     "Secure Software Development Life Cycle.md",
     "Secure Source Code Course.md",
