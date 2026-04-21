@@ -1,5 +1,5 @@
 
-# C# 12 in a nutshell
+# Explaination
 
-This Will be repo for notes and examples from the Book C# in a nutshell + my own custom Roadmap where I study concepts and try to deeply Understand Them 
+This was intended to be a repository of my notes From the Book **C# 12 in a nutshell** but instead of me doing repository for each book i will be reading why didnt i just make on repository and Organize it to have all my notes and Code Snippets from books and self study
 
