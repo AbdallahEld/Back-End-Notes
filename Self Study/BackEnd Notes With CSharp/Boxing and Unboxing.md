@@ -64,9 +64,9 @@ Console.WriteLine($"ArrayList: {sw.ElapsedMilliseconds}ms");
 ```
 The three costs
 ```
-Cost 1: HEAL Allocation
+Cost 1: HEAP Allocation
         Every box = one heap allocation
-        10M integers = 10 heap objects
+        10M integers = 10M heap objects
         Each object has ~16 bytes overhead (header + method table)
         10M x 16 bytes = 160MB of overhead just for wrappers
         
@@ -132,6 +132,7 @@ Console.WriteLine("Count: " + count.ToString()); // ToString() on stack
 ### Case 4: `params object[]` methods
 ```C#
 // Console.WriteLine(string format, params object[] args)
+// Any Thing got sent to this method turned into object
 // Every value type argument gets boxed
 
 Console.WriteLine("{0} {1} {2}", 1, 2.0, true);
