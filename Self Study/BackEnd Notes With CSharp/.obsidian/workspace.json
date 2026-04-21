@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boxing and Unboxing.md",
+                "file": "ref, out, in Keywords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxing and Unboxing"
+              "title": "ref, out, in Keywords"
             }
           }
         ],
@@ -224,9 +224,10 @@
   "active": "8355d030e11f6dcb",
   "lastOpenFiles": [
     "Value types vs reference types.md",
+    "ref, out, in Keywords.md",
     "Boxing and Unboxing.md",
-    "Untitled",
     "Welcome.md",
+    "Untitled",
     "2026.md",
     "Untitled.base",
     "2026-04-10.md",

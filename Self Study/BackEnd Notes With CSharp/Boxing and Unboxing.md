@@ -210,3 +210,6 @@ public static T Max<T>(T a, T b) where T : IComparable<T>
     return a.CompareTo(b) > 0 ? a : b; // no boxing, generic dispatch
 }
 ```
+##  📚 Resources 
+- **Microsoft Docs** - [Boxing and Unboxing](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
+- **Microsoft Docs** - [Span\<T> and Memory\<T>](https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/memory-t-usage-guidelines)

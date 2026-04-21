@@ -32,36 +32,10 @@
               "RelativeDocumentMoniker": "Value types vs reference types\\Program.cs",
               "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Program.cs",
               "RelativeToolTip": "Value types vs reference types\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwHUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T11:08:10.884Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vector3Class.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Class.cs",
-              "RelativeDocumentMoniker": "Value types vs reference types\\Vector3Class.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Class.cs",
-              "RelativeToolTip": "Value types vs reference types\\Vector3Class.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:25:29.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Vector3Struct.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Struct.cs",
-              "RelativeDocumentMoniker": "Value types vs reference types\\Vector3Struct.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Struct.cs",
-              "RelativeToolTip": "Value types vs reference types\\Vector3Struct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T12:24:35.294Z",
               "EditorCaption": ""
             },
             {
@@ -79,6 +53,30 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector3Class.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Class.cs",
+              "RelativeDocumentMoniker": "Value types vs reference types\\Vector3Class.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Class.cs",
+              "RelativeToolTip": "Value types vs reference types\\Vector3Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:25:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector3Struct.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Struct.cs",
+              "RelativeDocumentMoniker": "Value types vs reference types\\Vector3Struct.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Value types vs reference types\\Value types vs reference types\\Vector3Struct.cs",
+              "RelativeToolTip": "Value types vs reference types\\Vector3Struct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T12:24:35.294Z"
             }
           ]
         },
