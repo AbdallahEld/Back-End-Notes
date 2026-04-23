@@ -559,28 +559,6 @@
         "charCountStart": 7288,
         "changes": [],
         "id": 13
-      },
-      {
-        "date": "2026-04-23",
-        "filePath": "ref, out, in Keywords.md",
-        "wordCountStart": 1057,
-        "charCountStart": 7288,
-        "changes": [],
-        "id": 14
-      },
-      {
-        "date": "2026-04-23",
-        "filePath": "Pls Open Me!!!!!!!.md",
-        "wordCountStart": 0,
-        "charCountStart": 0,
-        "changes": [
-          {
-            "timeKey": "12:55",
-            "w": 9,
-            "c": 66
-          }
-        ],
-        "id": 15
       }
     ]
   }
