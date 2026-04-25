@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary & Hexadecimal Number System/Binary & Hexadecimal.md",
+                "file": "MongoDB/NOSQL VS Relational.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary & Hexadecimal"
+              "title": "NOSQL VS Relational"
             }
           }
         ]
@@ -186,6 +186,10 @@
   "active": "8c0c17af3f432f05",
   "lastOpenFiles": [
     "Welcome.md",
+    "MongoDB/NOSQL VS Relational.md",
+    "MongoDB",
+    "MongoDB/MongoDB Over View.md",
+    "MongoDB",
     "Binary & Hexadecimal Number System/Binary & Hexadecimal.md",
     "Binary & Hexadecimal Number System",
     "Secure Software Development Lifecycle/Chapter 05 Web Application Security Testing.md",
