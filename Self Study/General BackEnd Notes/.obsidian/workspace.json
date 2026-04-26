@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB/Starting MongoDB.md",
+                "file": "MongoDB/MongoDB CRUD Insert and Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starting MongoDB"
+              "title": "MongoDB CRUD Insert and Find"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "8c0c17af3f432f05",
   "lastOpenFiles": [
-    "MongoDB/MongoDB.md",
+    "FINAL_NYC_restaurants_full_database.csv",
     "MongoDB/Starting MongoDB.md",
+    "MongoDB/MongoDB CRUD Insert and Find.md",
+    "MongoDB/FINAL_NYC_restaurants_full_database.csv",
+    "MongoDB/MongoDB.md",
     "MongoDB/NOSQL VS Relational.md",
     "MongoDB/NOSQL Types.md",
     "Welcome.md",
