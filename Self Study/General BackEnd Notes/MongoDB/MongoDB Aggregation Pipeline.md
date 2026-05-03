@@ -1,6 +1,6 @@
 ## What is Aggregation Pipeline
 ### Basic Syntax
-```JSON
+```JS
 db.nyc.aggregate([
   { $stage1: { ... } },
   { $stage2: { ... } },
@@ -11,14 +11,14 @@ db.nyc.aggregate([
 ## `$match` and `$group` 
 ### `$match` --- Filter Documents
 Works exactly like `find()` but **inside** the pipeline.
-```JSON
+```JS
 // Find all Grade A restaurants in Queens
 db.nyc.aggregate([
    { $match: { GRADE : "A", BOROUGH: "Queens"}}
 ])
 ```
 
-```JSON
+```JS
 // Match with operators
 db.nyc.aggregate([
   { $match: { SCORE: { $lt: 5 } } }  // very clean restaurants
@@ -27,7 +27,7 @@ db.nyc.aggregate([
 ### `$group` --- Group & Calculate
 This is where the magic happens --- like GROUP BY in SQL
 #### Syntax
-```JSON
+```JS
 { $group: {
     _id: "$FIELD_TO_GROUP_BY",   // group by this
     newField: { $operator: "$field" }  // calculate this
@@ -44,7 +44,7 @@ This is where the magic happens --- like GROUP BY in SQL
 | `$max`   | Find maximum value        |
 | `$push`  | Collect values into array |
 #### Count restaurants per BOROUGH
-```JSON
+```JS
 db.nyc.aggregate([
   { $group: {
       _id: "$BOROUGH",
@@ -53,14 +53,14 @@ db.nyc.aggregate([
 ])
 ```
 ##### Result will be something like that
-```JSON
+```JS
 { _id: "Queens",    totalRestaurants: 6012 }
 { _id: "Brooklyn",  totalRestaurants: 6086 }
 { _id: "Manhattan", totalRestaurants: 10259 }
 { _id: "Bronx",     totalRestaurants: 2338 }
 ```
 #### Average SCORE per BOROUGH:
-```JSON
+```JS
 db.nyc.aggregate([
   { $group: {
       _id: "$BOROUGH",
@@ -71,7 +71,7 @@ db.nyc.aggregate([
 ```
 #### You Can Combine between multiple aggregates
 ##### Get Average score of GRADE A restaurants per borough
-```JSON
+```JS
 db.nyc.aggregate([
   { $match: { GRADE: "A" } },           // Step 1: keep Grade A only
   { $group: {                            // Step 2: group & calculate
@@ -82,7 +82,7 @@ db.nyc.aggregate([
 ])
 ```
 ##### Group by CUISINE and get min/max score:
-```JSON
+```JS
 db.nyc.aggregate([
   { $group: {
       _id: "$CUISINE_DESCRIPTION",
@@ -96,17 +96,17 @@ db.nyc.aggregate([
 ## `$sort` and `$limit`
 Same concept as `.sort` and `.limit()` but inside the pipeline --- so they work on the output of previous stages
 ### `$sort`
-```JSON
+```JS
 // 1 = ascending, -1 = descending
 { $sort: { field: 1 or -1 } }
 ```
 ### `$limit`
-```JSON
+```JS
 { $limit: N }   // keep only first N documents
 ```
 ### Examples
 #### Which BOROUGH has the most restaurants
-```JSON
+```JS
 db.nyc.aggregate([
   { $group: {
       _id: "$BOROUGH",
@@ -117,7 +117,7 @@ db.nyc.aggregate([
 ])
 ```
 #### Top 5 cuisines with best average score
-```JSON
+```JS
 db.nyc.aggregate([
   { $match: { GRADE: "A" } },
   { $group: {
@@ -133,7 +133,7 @@ db.nyc.aggregate([
 ## `$project`, `$count`, and `$set`
 ### `$project`
 Like projection in `find()`
-```JSON
+```JS
 // 1 = show, 0 = hide
 db.nyc.aggregate([
   { $project: {
@@ -145,7 +145,7 @@ db.nyc.aggregate([
 ])
 ```
 ### `$count` --- Count documents in pipeline
-```JSON
+```JS
 // How many Grade A restaurants in Queens?
 db.nyc.aggregate([
   { $match: { GRADE: "A", BOROUGH: "Queens" } },
@@ -154,7 +154,7 @@ db.nyc.aggregate([
 ```
 ### `$set` --- Add or Update Fields Temporarily:
 `$set` adds new fields to documents **without** replacing anything
-```JSON
+```JS
 db.nyc.aggregate([
   { $set: {
       CLEANLINESS_LABEL: {
@@ -172,7 +172,7 @@ db.nyc.aggregate([
 ## `$out` --- Save Results to a New Collection
 `$out` takes your pipeline results and **saves them as a brand new collection** --- very useful for reports
 ### Syntax
-```JSON
+```JS
 db.nyc.aggregate([
   { ... pipeline stages ... },
   { $out: "new_collection_name" }

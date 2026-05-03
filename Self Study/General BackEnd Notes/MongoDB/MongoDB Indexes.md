@@ -22,7 +22,7 @@ MongoDB jumps DIRECTLY to the document.
 So simply index is **much faster for Reading** queries but **Slightly slower for writing operations** and take **Extra disk space** 
 ### `explain()` --- See if your query uses an index
 
-```JSON
+```JS
 // This shows you HOW MongoDB ran your query
 db.nyc.find({ BOROUGH: "Queens" }).explain("executionStats")
 ```
@@ -38,7 +38,7 @@ db.nyc.find({ BOROUGH: "Queens" }).explain("executionStats")
 ## Single Field Index
 Index on **one field** only.
 #### Create a Single Field Index
-```JSON
+```JS
 // Syntax
 db.nyc.createIndex({ field: 1 or -1 })
 
@@ -46,7 +46,7 @@ db.nyc.createIndex({ field: 1 or -1 })
 // -1 = descending index
 ```
 ### Unique Index 
-```JSON
+```JS
 // If every restaurant had a license number, make it unique
 db.nyc.createIndex({ LICENSE_NO: 1 }, { unique: true })
 
@@ -56,14 +56,14 @@ db.nyc.createIndex({ LICENSE_NO: 1 }, { unique: true })
 ## Multi Key Index
 A **Multikey Index** is automatically created when you index a field that contains an **array**.
 ### Add a Tags array to restaurant
-```JSON
+```JS
 db.nyc.updateOne(
   { DBA: "COURT SQUARE DINER" },
   { $set: { TAGS: ["breakfast", "diner", "24hours", "cheap"] } }
 )
 ```
 #### Create Index on the array field
-```JSON
+```JS
 db.nyc.createIndex({ TAGS: 1 })
 // MongoDB automatically makes this a MULTIKEY index
 // It indexes EACH element in the array separately
@@ -78,15 +78,15 @@ db.nyc.find({ TAGS: "breakfast" })
 ## Compound Index
 Index on **multiple fields** together --- very powerful!
 ### Syntax
-```JSON
+```JS
 db.nyc.createIndex({ field1: 1, field2: 1, field3: 1 })
 ```
 ### Index on BOROUGH + GRADE together
-```JSON
+```JS
 db.nyc.createIndex({ BOROUGH: 1, GRADE: 1 })
 ```
 ### Now ALL of these queries use that ONE index
-```JSON
+```JS
 db.nyc.find({ BOROUGH: "Queens" })                    //  uses index
 db.nyc.find({ BOROUGH: "Queens", GRADE: "A" })        //  uses index
 db.nyc.find({ BOROUGH: "Queens" }).sort({ GRADE: 1 }) //  uses index
@@ -99,7 +99,7 @@ S → Sort fields second       (fields you use in .sort())
 R → Range fields last        (fields you use with $gt $lt etc)
 ```
 
-```JSON
+```JS
 // Query: find Queens restaurants, sort by DBA, score > 5
 db.nyc.find({
   BOROUGH: "Queens",       // E - Equality
@@ -113,19 +113,19 @@ db.nyc.createIndex({ BOROUGH: 1, DBA: 1, SCORE: 1 })
 ---
 ## Deleting Indexes
 ### Drop a Single Index by NAME
-```JSON
+```JS
 // Drop the BOROUGH index
 db.nyc.dropIndex("BOROUGH_1")
 ```
 ### Drop a Single Index by KEY
-```JSON
+```JS
 db.nyc.dropIndex({ BOROUGH: 1 })
 ```
 ### Drop ALL indexes at once (except `_id`)
-```JSON
+```JS
 db.nyc.dropIndexes()
 ```
 ### Drop specific multiple indexes
-```JSON
+```JS
 db.nyc.dropIndexes(["BOROUGH_1", "GRADE_1"])
 ```

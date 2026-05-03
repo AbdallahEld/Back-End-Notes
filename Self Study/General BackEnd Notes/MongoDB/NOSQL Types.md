@@ -1,6 +1,6 @@
 ## 1. Document Databases
 Data is stored as self contained documents, typically in JSON or BSON format. Each document can have a completely different structure. There is no rigid schema enforced upfront.
-```json
+```js
 {
   "_id": "user_001",
   "name": "Sara Ahmed",

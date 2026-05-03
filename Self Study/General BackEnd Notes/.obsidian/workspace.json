@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB/MongoDB Transactions.md",
+                "file": "MongoDB/MongoDB Atlas Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB Transactions"
+              "title": "MongoDB Atlas Search"
             }
           }
         ]
@@ -186,19 +186,20 @@
   "active": "8c0c17af3f432f05",
   "lastOpenFiles": [
     "MongoDB/MongoDB Aggregation Pipeline.md",
-    "MongoDB/MongoDB Transactions.md",
-    "MongoDB/MongoDB CRUD - Modifying Query Results.md",
-    "MongoDB/MongoDB Indexes.md",
     "MongoDB/MongoDB.md",
-    "MongoDB/Starting MongoDB.md",
-    "Welcome.md",
-    "Untitled.md",
-    "MongoDB/MongoDB CRUD - Replace, Update & Delete.md",
+    "MongoDB/MongoDB Transactions.md",
+    "MongoDB/MongoDB Indexes.md",
+    "MongoDB/NOSQL Types.md",
     "MongoDB/MongoDB CRUD Insert and Find.md",
+    "MongoDB/MongoDB CRUD - Replace, Update & Delete.md",
+    "MongoDB/MongoDB CRUD - Modifying Query Results.md",
+    "MongoDB/Starting MongoDB.md",
+    "MongoDB/NOSQL VS Relational.md",
+    "Welcome.md",
+    "MongoDB/MongoDB Atlas Search.md",
+    "Untitled.md",
     "FINAL_NYC_restaurants_full_database.csv",
     "MongoDB/FINAL_NYC_restaurants_full_database.csv",
-    "MongoDB/NOSQL VS Relational.md",
-    "MongoDB/NOSQL Types.md",
     "MongoDB",
     "MongoDB/MongoDB Over View.md",
     "MongoDB",

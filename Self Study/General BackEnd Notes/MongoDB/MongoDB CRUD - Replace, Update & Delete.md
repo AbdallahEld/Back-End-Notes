@@ -1,14 +1,14 @@
 ## Replacing a Document with `replaceOne()`
 `replaceOne()` completely replaces the entire document - only `_id` stays the same everything is overwritten.
 ### Syntax
-```JSON
+```JS
 db.nyc.relaceOne(
     { filter },         // which document to find,
     { replacement }    // what to replace it with
 )
 ```
 ### Example - Replace Court Square Diner entirely:
-```JSON
+```JS
 db.nyc.replaceOne( 
     { DBA: "COURT SQUARE DINER" },
     { DBA: "COURT SQUARE DINER UPDATED",
@@ -22,7 +22,7 @@ db.nyc.replaceOne(
 )
 ```
 ### Careful!!
-```JSON
+```JS
 // If you do this: 
 db.nyc.replaceOne( 
 { DBA: "COURT SQUARE DINER" }, 
@@ -44,28 +44,28 @@ db.nyc.replaceOne(
 | `$unset`  | Remove a field        |
 | `$rename` | Rename a field        |
 #### Update just the GRADE and SCORE
-```JSON
+```JS
 db.nyc.updateOne(
   { DBA: "COURT SQUARE DINER" },
   { $set: { GRADE: "B", SCORE: 15 } }
 )
 ```
 #### Increment the SCORE by 3:
-```JSON
+```JS
 db.nyc.updateOne(
   { DBA: "COURT SQUARE DINER" },
   { $inc: { SCORE: 3 } }
 )
 ```
 #### Add a brand new field:
-```JSON
+```JS
 db.nyc.updateOne(
   { DBA: "COURT SQUARE DINER" },
   { $set: { LAST_INSPECTED: "2024-01-15", IS_OPEN: true } }
 )
 ```
 #### `upsert` -- Insert if not found
-```JSON
+```JS
 db.nyc.updateOne(
   { DBA: "BRAND NEW CAFE" },
   { $set: { BOROUGH: "Manhattan", GRADE: "A", SCORE: 4 } },
@@ -76,7 +76,7 @@ db.nyc.updateOne(
 ## `findAndModify()`
 `findAndModify()` updates a document AND returns it in one single operation - very useful to see result after the update immediately
 ### Update score and return the updated document:
-```JSON
+```JS
 db.nyc.findAndModify({
   query: { DBA: "COURT SQUARE DINER" },
   update: { $set: { SCORE: 2, GRADE: "A" } },
@@ -87,21 +87,21 @@ db.nyc.findAndModify({
 ## Updating Many with `updateMany()`
 it update **All documents** that match the filter at once
 ### Set all Queens restaurant to "medium income"
-```JSON
+```JS
 db.nyc.updateMany(
   { BOROUGH: "Queens" },
   { $set: { INCOME_LEVEL: "medium income" } }
 )
 ```
 ### Increment SCORE by 1 for all Grade B restaurants
-```JSON
+```JS
 db.nyc.updateMany(
   { GRADE: "B" },
   { $inc: { SCORE: 1 } }
 )
 ```
 ### Add a new field to ALL documents:
-```JSON
+```JS
 db.nyc.updateMany(
   {},   // empty filter = matches EVERYTHING
   { $set: { ACTIVE: true } }
@@ -111,12 +111,12 @@ db.nyc.updateMany(
 ## Deleting Documents
 
 `deleteOne()` - Delete the **first match**:
-```JSON
+```JS
 db.nyc.deleteOne({ DBA: "COURT SQUARE DINER" })
 ```
 
 `deleteMany()` - Delete **All matches**
-```JSON
+```JS
 // Delete all Grade C restaurants
 db.nyc.deleteMany({ GRADE: "C" })
 

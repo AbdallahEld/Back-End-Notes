@@ -5,3 +5,6 @@
 [[MongoDB CRUD - Replace, Update & Delete]]
 [[MongoDB CRUD - Modifying Query Results]]
 [[MongoDB Indexes]]
+[[MongoDB Transactions]]
+[[MongoDB Aggregation Pipeline]]
+[[MongoDB Atlas Search]]

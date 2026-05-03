@@ -62,7 +62,7 @@ First lets see the Full Transaction Workflow:
 5. End the Session
 ```
 
-```JSON
+```JS
 // Start a Session
 const session = db.getMongo().startSession()
 
@@ -99,7 +99,7 @@ session.abortTransaction
 session.endSession()
 ```
 ### Full Example
-```JSON
+```JS
 // The complete pattern you'll use every time
 
 const session = db.getMongo().startSession()

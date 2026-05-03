@@ -7,7 +7,7 @@ we are gonna use **Mongosh** to type most of our querries
 ### Inserting Documents
 
 `insertOne()` - Add a single document
-```JSON
+```JS
 db["nyc"].insertOne({
   DBA: "QUEENS BURGER HOUSE",
   STREET: "45 STREET",
@@ -22,7 +22,7 @@ db["nyc"].insertOne({
 MongoDB auto generate id for each document if you do not provide one
 
 `insertMany` - add multiple documents at once
-```JSON
+```JS
 db["nyc"].insertMany([
   {
     DBA: "NILE PALACE",
@@ -50,7 +50,7 @@ db["nyc"].insertMany([
 ### Finding Documents
 
 `findOne()` - Get the first match
-```JSON
+```JS
 // Find one American restaurant in Queens
 db["nyc"].findOne({
   BOROUGH: "Queens",
@@ -59,7 +59,7 @@ db["nyc"].findOne({
 ```
 
 `find()` - Get all matches
-```JSON
+```JS
 // Find ALL Grade A restaurants
 db["nyc"].find({ GRADE: "A" })
 ```
@@ -88,7 +88,7 @@ db["nyc"].find({
 ```
 ---
 ### Projections (choose which fields to show)
-```JSON
+```JS
 // Show only name, borough, grade — hide everything else 
 db["nyc"].find( 
     { GRADE: "A" },
