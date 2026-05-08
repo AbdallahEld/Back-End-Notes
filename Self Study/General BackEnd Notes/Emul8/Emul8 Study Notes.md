@@ -1,0 +1,1 @@
+**==Disclaimer==** I Know building an Emulator is not considered a Backend development its more of a System Programming or a Low Level Programming I just don't wanna make another repo just for this Notes i am not sure if i even will complete it or not but lets hope i did

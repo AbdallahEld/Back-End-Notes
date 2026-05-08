@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "MongoDB Atlas Search"
             }
+          },
+          {
+            "id": "309e788d3a89d51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emul8/How Does a CPU Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How Does a CPU Work"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c0c17af3f432f05",
+  "active": "309e788d3a89d51e",
   "lastOpenFiles": [
+    "Binary & Hexadecimal Number System/Binary & Hexadecimal.md",
+    "Emul8/How Does a CPU Work.md",
+    "Emul8/Emul8 Study Notes.md",
+    "Emul8",
+    "MongoDB/MongoDB Atlas Search.md",
     "MongoDB/MongoDB Aggregation Pipeline.md",
     "MongoDB/MongoDB.md",
     "MongoDB/MongoDB Transactions.md",
@@ -196,14 +216,11 @@
     "MongoDB/Starting MongoDB.md",
     "MongoDB/NOSQL VS Relational.md",
     "Welcome.md",
-    "MongoDB/MongoDB Atlas Search.md",
-    "Untitled.md",
     "FINAL_NYC_restaurants_full_database.csv",
     "MongoDB/FINAL_NYC_restaurants_full_database.csv",
     "MongoDB",
     "MongoDB/MongoDB Over View.md",
     "MongoDB",
-    "Binary & Hexadecimal Number System/Binary & Hexadecimal.md",
     "Binary & Hexadecimal Number System",
     "Secure Software Development Lifecycle/Chapter 05 Web Application Security Testing.md",
     "Secure Software Development Lifecycle/Chapter 01 Security Awareness.md",
@@ -224,7 +241,6 @@
     "download.jfif",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "create a link.md"
   ]
 }

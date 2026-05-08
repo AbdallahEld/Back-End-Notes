@@ -15,10 +15,6 @@
       "RelativeMoniker": "D:0:0:{B1439B62-8A4E-12FA-5F3D-38216B6B1EF9}|Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge.csproj|solutionrelative:boxind and unboxing challenge\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1439B62-8A4E-12FA-5F3D-38216B6B1EF9}|Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\self study\\code snippets\\boxind and unboxing challenge\\boxind and unboxing challenge\\orderprocessorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1439B62-8A4E-12FA-5F3D-38216B6B1EF9}|Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge.csproj|solutionrelative:boxind and unboxing challenge\\orderprocessorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1439B62-8A4E-12FA-5F3D-38216B6B1EF9}|Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\self study\\code snippets\\boxind and unboxing challenge\\boxind and unboxing challenge\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1439B62-8A4E-12FA-5F3D-38216B6B1EF9}|Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge.csproj|solutionrelative:boxind and unboxing challenge\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -43,21 +39,7 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T10:11:52.381Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderProcessorV3.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
-              "RelativeDocumentMoniker": "Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
-              "RelativeToolTip": "Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:27:38.232Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -77,6 +59,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProcessorV3.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
+              "RelativeDocumentMoniker": "Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
+              "RelativeToolTip": "Boxind and Unboxing Challenge\\OrderProcessorV3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:27:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Helper.cs",
               "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\Helper.cs",
@@ -90,18 +85,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderProcessorV2.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV2.cs",
-              "RelativeDocumentMoniker": "Boxind and Unboxing Challenge\\OrderProcessorV2.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessorV2.cs",
-              "RelativeToolTip": "Boxind and Unboxing Challenge\\OrderProcessorV2.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCkAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:24:52.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "OrderProcessor.cs",
               "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\Self Study\\Code Snippets\\Boxind and Unboxing Challenge\\Boxind and Unboxing Challenge\\OrderProcessor.cs",
               "RelativeDocumentMoniker": "Boxind and Unboxing Challenge\\OrderProcessor.cs",
