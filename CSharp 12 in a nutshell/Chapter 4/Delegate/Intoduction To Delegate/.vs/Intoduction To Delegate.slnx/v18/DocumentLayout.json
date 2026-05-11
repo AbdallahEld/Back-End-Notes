@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2951EFF7-9AA8-43CD-9226-CADE1DFE8E19}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2951EFF7-9AA8-43CD-9226-CADE1DFE8E19}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\squarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\squarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\itransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\itransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\delegate\\intoduction to delegate\\intoduction to delegate\\myreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119C2967-CC81-80E9-3D19-E8CC6836976B}|Intoduction To Delegate\\Intoduction To Delegate.csproj|solutionrelative:intoduction to delegate\\myreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Intoduction To Delegate\\Program.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Program.cs",
+              "RelativeToolTip": "Intoduction To Delegate\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:07:04.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Squarer.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Squarer.cs",
+              "RelativeDocumentMoniker": "Intoduction To Delegate\\Squarer.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Squarer.cs",
+              "RelativeToolTip": "Intoduction To Delegate\\Squarer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T18:14:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransformer.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\ITransformer.cs",
+              "RelativeDocumentMoniker": "Intoduction To Delegate\\ITransformer.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\ITransformer.cs",
+              "RelativeToolTip": "Intoduction To Delegate\\ITransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T18:11:04.994Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,16 +86,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Program.cs",
-              "RelativeDocumentMoniker": "Intoduction To Delegate\\Program.cs",
-              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Program.cs",
-              "RelativeToolTip": "Intoduction To Delegate\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Util.cs",
+              "RelativeDocumentMoniker": "Intoduction To Delegate\\Util.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\Util.cs",
+              "RelativeToolTip": "Intoduction To Delegate\\Util.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T18:07:04.407Z",
+              "WhenOpened": "2026-05-10T12:00:16.292Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyReporter.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\MyReporter.cs",
+              "RelativeDocumentMoniker": "Intoduction To Delegate\\MyReporter.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Delegate\\Intoduction To Delegate\\Intoduction To Delegate\\MyReporter.cs",
+              "RelativeToolTip": "Intoduction To Delegate\\MyReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:39:55.784Z"
             }
           ]
         },
