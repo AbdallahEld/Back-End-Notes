@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\events\\introduction to events\\introduction to events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|solutionrelative:introduction to events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\events\\introduction to events\\introduction to events\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|solutionrelative:introduction to events\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\events\\introduction to events\\introduction to events\\pricechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|solutionrelative:introduction to events\\pricechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|d:\\learning\\iti\\c# in nutshell\\csharp-12-in-a-nutshell\\csharp 12 in a nutshell\\chapter 4\\events\\introduction to events\\introduction to events\\broadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C7B0E9-4B23-487D-B5E8-ABC135D5E521}|Introduction To Events\\Introduction To Events.csproj|solutionrelative:introduction to events\\broadcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Program.cs",
+              "RelativeDocumentMoniker": "Introduction To Events\\Program.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Program.cs",
+              "RelativeToolTip": "Introduction To Events\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:46:10.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceChangedEventArgs.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\PriceChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "Introduction To Events\\PriceChangedEventArgs.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\PriceChangedEventArgs.cs",
+              "RelativeToolTip": "Introduction To Events\\PriceChangedEventArgs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:20:29.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Stock.cs",
+              "RelativeDocumentMoniker": "Introduction To Events\\Stock.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Stock.cs",
+              "RelativeToolTip": "Introduction To Events\\Stock.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:58:35.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Broadcaster.cs",
+              "DocumentMoniker": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Broadcaster.cs",
+              "RelativeDocumentMoniker": "Introduction To Events\\Broadcaster.cs",
+              "ToolTip": "D:\\Learning\\ITI\\C# in nutshell\\CSharp-12-in-a-nutshell\\CSharp 12 in a nutshell\\Chapter 4\\Events\\Introduction To Events\\Introduction To Events\\Broadcaster.cs",
+              "RelativeToolTip": "Introduction To Events\\Broadcaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:50:44.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
